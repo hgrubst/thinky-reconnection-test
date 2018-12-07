@@ -1,0 +1,13 @@
+{
+  "name": "rdb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/hapi": "^17.8.0",
+    "@types/node": "^10.12.12",
+    "hapi": "^17.8.1",
+    "rethinkdb-ts": "^2.4.0-rc.11",
+    "thinky": "^2.3.9"
+  }
+}
